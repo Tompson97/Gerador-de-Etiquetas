@@ -7,3 +7,5 @@ No script criei uma função para cada layout de etiquetas e uma interface gráf
 Atualmente estou trabalhando com 7 layout de etiquetas que foram produzidas pelo mkt da empresa, deixei uma de exemplo no repositório.
 
 No final da execução de cada função as informações do produto são gravadas em uma determinada aba da planilha de onde foram extraído os dados. Essas informações serão acessadas pelos usuários como uma espécie de backup para ter mais agilidade na próxima atualização de preço de um mesmo produto.
+
+[<img src="https://i.ibb.co/x6d6qHm/etiquetas.png" alt="ETIQUETA-copia1" border="0">](https://youtu.be/y_QMUpMbgCM?si=PEvYnWi77IEdHEbf)
